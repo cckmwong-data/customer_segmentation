@@ -15,6 +15,7 @@ This project automates an end-to-end customer segmentation workflow, integrating
 ## Technologies Used
 
 - **Python**: `pandas`, `seaborn`, `matplotlib`, `kmodes`, `gower`, `prince`, `sklearn`, `pandas-gbq`
+- **Artificial Intelligence**: gemini-2.5-flash 
 - **GitHub Actions**: automation of Python scripts
 - **Google BigQuery**: SQL
 - **Power BI**: real-time dashboards
