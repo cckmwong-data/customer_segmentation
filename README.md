@@ -1,17 +1,20 @@
-# Customer Clustering and Sales Analytics on Active Policyholders
+# Customer Clustering and Sales Analytics
 
-This project automates a complete customer segmentation workflow, integrating raw input from Google Sheets, clustering analysis with K-Prototypes, and daily-updated Power BI dashboards. It's designed to provide marketing and sales teams with actionable insights — fully automated, cloud-based, and production-ready.
+---
+## Problem Statement
+
+With rising competition and evolving customer expectations, insurers leverage data-driven intelligence to understand customer behavior and tailor their offerings accordingly. Customer segmentation provides a structured way to group individuals with shared characteristics, enabling more efficient targeting and marketing strategies.
 
 ---
 
 ## Project Summary
 
-This pipeline ingests raw datasets from Google Sheets, applies customer segmentation using the **K-Prototypes algorithm**, and loads results into **Google BigQuery**, where **Power BI dashboards** provides business insights about the sales and customer segments. The entire process is automated using **GitHub Actions** and scheduled to run daily at 10pm London time, followed by a scheduled refresh of the BI report at 11pm London time.
+This project automates an end-to-end customer segmentation workflow, integrating raw data ingestion from **Google Sheets**, clustering analysis using **K-Prototypes** and **AI (Gemini)**, data warehousing in **Google BigQuery**, and daily refreshed **Power BI dashboards**. It is designed to deliver actionable insights for marketing and sales teams through a fully automated, cloud-based, and production-ready solution.
 
 ---
 ## Technologies Used
 
-- **Python**: `pandas`, `kmodes`, `gower`, `prince`, `sklearn`, `pandas-gbq`
+- **Python**: `pandas`, `seaborn`, `matplotlib`, `kmodes`, `gower`, `prince`, `sklearn`, `pandas-gbq`
 - **GitHub Actions**: automation of Python scripts
 - **Google BigQuery**: SQL
 - **Power BI**: real-time dashboards
