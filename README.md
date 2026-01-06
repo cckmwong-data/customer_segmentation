@@ -31,6 +31,7 @@ This project automates an end-to-end customer segmentation workflow, integrating
 
 ---
 ## ETL Pipeline
+*End-to-end automated data flow from ingestion to BI dashboard*
 ![Alt text](./images/ETL_pipeline.png)
 ---
 
