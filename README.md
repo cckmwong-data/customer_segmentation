@@ -36,7 +36,7 @@ This project automates an end-to-end customer segmentation workflow, integrating
 
 ## Workflow Overview
 
-This is a project covering an automated end-to-end data pipeline which performs clustering, stores the output in a warehouse, and updates a live dashboard.
+This is a project covering an automated end-to-end data pipeline which performs clustering, stores the output in a warehouse, and updates a [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNThiYjk5ZWQtZDcwYy00YWFhLWFlNjItNGI1OGNiNDE2Y2E1IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D).
 
 1. **Data Ingestion**: Collecting raw data from Google Sheets: [customers.csv](https://docs.google.com/spreadsheets/d/1bzB4VDQEQz0BIbyT2BCIvcE2rPSAlOcmeQuvMtuIFcI/export?format=csv), [sales.csv](https://docs.google.com/spreadsheets/d/1xrPtoy8R965CPSCS59_hcLP1cwzNcp7DJ2MOegZrsVA/export?format=csv), [products.csv](https://docs.google.com/spreadsheets/d/1HpCKgERS0F9qjHh3y0_GZ988JjX4vtKBX5rIksCgB5I/gviz/tq?tqx=out:csv&gid=0)
 
@@ -51,7 +51,9 @@ This is a project covering an automated end-to-end data pipeline which performs 
   
 3. **Data Warehousing**: Processed model outputs were stored as tables in BigQuery for reporting and analysis, alongside views generated from SQL queries.
 
-4. **Business Intelligence**: A live dashboard in Microsoft Power BI shows an analysis of customer and sales data the company. Data is scheduled for an automatic update on a daily basis at 11PM UK time.
+![Alt text](./images/bq.jpg)
+
+4. **Business Intelligence**: A [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNThiYjk5ZWQtZDcwYy00YWFhLWFlNjItNGI1OGNiNDE2Y2E1IiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) in Microsoft Power BI shows an analysis of customer and sales data the company. Data is scheduled for an automatic update on a daily basis at 11PM UK time.
 
 ---
 
