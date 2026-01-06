@@ -38,7 +38,8 @@ This project automates an end-to-end customer segmentation workflow, integrating
 
 This is a project covering an automated end-to-end data pipeline which performs clustering, stores the output in a warehouse, and updates a live dashboard.
 
-1. **Data Ingestion**: Collecting raw data from Google Sheets: customers.csv, sales.csv, products.csv
+1. **Data Ingestion**: Collecting raw data from Google Sheets: [customers.csv](https://docs.google.com/spreadsheets/d/1bzB4VDQEQz0BIbyT2BCIvcE2rPSAlOcmeQuvMtuIFcI/export?format=csv), [sales.csv](https://docs.google.com/spreadsheets/d/1xrPtoy8R965CPSCS59_hcLP1cwzNcp7DJ2MOegZrsVA/export?format=csv), [products.csv](https://docs.google.com/spreadsheets/d/1HpCKgERS0F9qjHh3y0_GZ988JjX4vtKBX5rIksCgB5I/gviz/tq?tqx=out:csv&gid=0)
+
 
 2. **Data Processing (Extract-Transform-Load ETL)**  
 - Data cleaning (e.g. checking any missing values or duplicates)
