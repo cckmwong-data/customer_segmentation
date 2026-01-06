@@ -69,3 +69,7 @@ This is a project covering an automated end-to-end data pipeline which performs 
 | Power BI       | Daily @ 11pm BST     | Power BI Scheduler  |
 
 ---
+
+## Author
+
+**Carmen Wong**
