@@ -70,6 +70,27 @@ This is a project covering an automated end-to-end data pipeline which performs 
 
 ---
 
+## Business Analytics & Insights
+
+### Customer Segmentation Overview
+The clustering analysis identifies three customer segments with clear differences in demographics, value contribution, and insurance behaviour.
+
+| Segment | Profile | Business Value |
+|---|---|---|
+| **Young Urban Starters** | Younger, budget-conscious customers with lower income and shorter policy tenure | Lower current premium contribution, but strong long-term growth potential |
+| **Discerning Independents** | Middle-aged, higher-income individuals with the highest premium-to-coverage efficiency | Largest contribution to total annual premium (**£8.8M**) and high retention importance |
+| **Loyal Family Households** | Mature, married customers with long tenure and stable insurance needs | Consistent and predictable revenue over time |
+
+### Key Analytical Findings
+- **Revenue concentration is segment-driven:** *Discerning Independents* contribute the largest share of total annual premium (**£8.8M**), despite not being the largest segment by customer count.
+- **Tenure correlates with customer value:** Customers with **10+ years** tenure show significantly higher total premium and **CLV**, reinforcing retention as a key strategy.
+- **Young customers drive volume, not value:** **18–40** age groups represent a large share of policyholders, but contribute less premium due to lower coverage and shorter tenure.
+- **Product performance varies by segment:** **Life** and **Family** products generate the highest total premiums, led by *SuperGold Life Family* and *TruePromise Family*.
+- **Geography matters:** **London** generates the highest total annual premium, indicating a strong concentration of high-value customers.
+
+
+---
+
 ## Author
 
 **Carmen Wong**
