@@ -12,6 +12,27 @@ With rising competition and evolving customer expectations, insurers leverage da
 This project automates an end-to-end customer segmentation workflow, integrating raw data ingestion from **Google Sheets**, clustering analysis using **K-Prototypes**, data warehousing in **Google BigQuery**, and daily refreshed **Power BI dashboards**. It is designed to deliver actionable insights for marketing and sales teams through a fully automated, cloud-based, and production-ready solution.
 
 ---
+
+## Business Analytics & Insights
+
+### Customer Segmentation Overview
+The clustering analysis identifies three customer segments with clear differences in demographics, value contribution, and insurance behaviour.
+
+| Segment | Profile | Business Value |
+|---|---|---|
+| **Young Urban Starters** | Younger, budget-conscious customers with lower income and shorter policy tenure | Lower current premium contribution, but strong long-term growth potential |
+| **Discerning Independents** | Middle-aged, higher-income individuals with the highest premium-to-coverage efficiency | Largest contribution to total annual premium (**£8.8M**) and high retention importance |
+| **Loyal Family Households** | Mature, married customers with long tenure and stable insurance needs | Consistent and predictable revenue over time |
+
+### Key Analytical Findings
+- **Revenue concentration is segment-driven:** **Discerning Independents** contribute the largest share of total annual premium (**£8.8M**) due to higher-value insurance products and higher premium efficiency per unit of coverage, despite not being the largest segment by customer count.
+- **Retention drives profitability:** Customers with 10+ years tenure are consistently represented among high-CLV and top-premium customers. This highlights the importance of customer retention strategies in driving revenue and lifetime value.
+- **Young customers drive volume, not value:** Younger customers aged 18–30 (*Young Urban Starters*) appear in higher volume but contribute lower total premium, likely due to lower coverage, whereas mid-life customers aged 31–50 (*Discerning Independents*) contribute disproportionately to premium.
+- **Product performance varies by segment:** **Business** products generate the highest total premiums, led by *OfficeProtect* and *MotorShield*.
+- **Geography matters:** **London** generates the highest total annual premium, indicating a strong concentration of high-value customers.
+
+
+---
 ## Technologies Used
 
 - **Python**: `pandas`, `seaborn`, `matplotlib`, `kmodes`, `gower`, `prince`, `sklearn`, `pandas-gbq`
@@ -67,27 +88,6 @@ This is a project covering an automated end-to-end data pipeline which performs 
 | Python Script  | Daily @ 10pm BST     | GitHub Actions      |
 | BigQuery Views | Live / real-time     | Google BigQuery     |
 | Power BI       | Daily @ 11pm BST     | Power BI Scheduler  |
-
----
-
-## Business Analytics & Insights
-
-### Customer Segmentation Overview
-The clustering analysis identifies three customer segments with clear differences in demographics, value contribution, and insurance behaviour.
-
-| Segment | Profile | Business Value |
-|---|---|---|
-| **Young Urban Starters** | Younger, budget-conscious customers with lower income and shorter policy tenure | Lower current premium contribution, but strong long-term growth potential |
-| **Discerning Independents** | Middle-aged, higher-income individuals with the highest premium-to-coverage efficiency | Largest contribution to total annual premium (**£8.8M**) and high retention importance |
-| **Loyal Family Households** | Mature, married customers with long tenure and stable insurance needs | Consistent and predictable revenue over time |
-
-### Key Analytical Findings
-- **Revenue concentration is segment-driven:** **Discerning Independents** contribute the largest share of total annual premium (**£8.8M**) due to higher-value insurance products and higher premium efficiency per unit of coverage, despite not being the largest segment by customer count.
-- **Retention drives profitability:** Customers with 10+ years tenure are consistently represented among high-CLV and top-premium customers. This highlights the importance of customer retention strategies in driving revenue and lifetime value.
-- **Young customers drive volume, not value:** Younger customers aged 18–30 (*Young Urban Starters*) appear in higher volume but contribute lower total premium, likely due to lower coverage, whereas mid-life customers aged 31–50 (*Discerning Independents*) contribute disproportionately to premium.
-- **Product performance varies by segment:** **Business** products generate the highest total premiums, led by *OfficeProtect* and *MotorShield*.
-- **Geography matters:** **London** generates the highest total annual premium, indicating a strong concentration of high-value customers.
-
 
 ---
 
