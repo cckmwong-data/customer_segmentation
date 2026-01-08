@@ -82,9 +82,9 @@ The clustering analysis identifies three customer segments with clear difference
 | **Loyal Family Households** | Mature, married customers with long tenure and stable insurance needs | Consistent and predictable revenue over time |
 
 ### Key Analytical Findings
-- **Revenue concentration is segment-driven:** *Discerning Independents* contribute the largest share of total annual premium (**£8.8M**) due to higher-value insurance products and higher premium efficiency per unit of coverage, despite not being the largest segment by customer count.
-- **Retention drives profitability:** Retention has a multiplicative effect on CLV because CLV is fundamentally premised on duration. In the data, customers with 10+ years tenure are consistently represented among high-CLV and top-premium customers.
-- **Young customers drive volume, not value:** Younger customers (18–30) appear in higher volume but contribute lower total premium, likely due to lower coverage, whereas mid-life customers (31–50) contribute disproportionately to premium.
+- **Revenue concentration is segment-driven:** **Discerning Independents** contribute the largest share of total annual premium (**£8.8M**) due to higher-value insurance products and higher premium efficiency per unit of coverage, despite not being the largest segment by customer count.
+- **Retention drives profitability:** Customers with 10+ years tenure are consistently represented among high-CLV and top-premium customers. This highlights the importance of customer retention strategies in driving revenue and lifetime value.
+- **Young customers drive volume, not value:** Younger customers aged 18–30 (*Young Urban Starters*) appear in higher volume but contribute lower total premium, likely due to lower coverage, whereas mid-life customers aged 31–50 (*Discerning Independents*) contribute disproportionately to premium.
 - **Product performance varies by segment:** **Business** products generate the highest total premiums, led by *OfficeProtect* and *MotorShield*.
 - **Geography matters:** **London** generates the highest total annual premium, indicating a strong concentration of high-value customers.
 
