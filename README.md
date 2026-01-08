@@ -23,7 +23,7 @@ The clustering analysis identifies three customer segments with clear difference
 | Segment | Profile | Business Value |Business Tactics|
 | --- | --- | --- | --- |
 | **Young Urban Starters** | Younger, budget-conscious customers with lower income and shorter policy tenure. | Lower current premium and CLV, but represent an important pool of future growth. | Entry-level pricing, affordable bundles, simplified products and digital onboarding |
-| **Discerning Independents** | Middle-aged, high-income individuals with moderate tenure. Often single or divorced, with strong individual protection needs. | Currently contribute the **largest share of total annual premium**, making them a key revenue segment despite relatively lower per-customer CLV due to short tenure. | Upsell and cross-sell add-on covering not only business but life insurance products |
+| **Discerning Independents** | Middle-aged, high-income individuals with moderate tenure. Often single or divorced, with strong individual protection needs. | Currently contribute the **largest share of total annual premium**, making them a key revenue segment despite relatively lower per-customer CLV due to short tenure. | Upsell and cross-sell add-on covering not only business but also life insurance products |
 | **Loyal Family Households** | Mature, predominantly married customers with the **longest policy tenure**. Strong focus on family and long-term protection. | Provide **stable, predictable revenue** and the **highest CLV** across segments. They form the backbone of long-term profitability and should be prioritised for retention and loyalty programmes. | Renewal incentives, long-term loyalty programs, family bundles and multi-policy discounts |
 
 
