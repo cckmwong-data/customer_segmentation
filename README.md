@@ -18,14 +18,17 @@ This project automates an end-to-end customer segmentation workflow, integrating
 ### Customer Segmentation Overview
 The clustering analysis identifies three customer segments with clear differences in demographics, value contribution, and insurance behaviour.
 
+## Customer Segmentation Overview
+
 | Segment | Profile | Business Value |
-|---|---|---|
-| **Young Urban Starters** | Younger, budget-conscious customers with lower income and shorter policy tenure | Lower current premium contribution, but strong long-term growth potential |
-| **Discerning Independents** | Middle-aged, higher-income individuals with the highest premium-to-coverage efficiency | Largest contribution to total annual premium (**£8.8M**) and high retention importance |
-| **Loyal Family Households** | Mature, married customers with long tenure and stable insurance needs | Consistent and predictable revenue over time |
+| --- | --- | --- |
+| **Young Urban Starters** | Younger, budget-conscious customers with lower income, shorter policy tenure, and the lowest average CLV. Predominantly single and early in their insurance journey. | Lower current premium and CLV, but represent an important pool of future growth if nurtured with entry-level products and gradual upsell. |
+| **Discerning Independents** | Middle-aged, high-income individuals with moderate tenure and premium-to-coverage ratios close to the overall average. Often single or divorced, with strong individual protection needs. | Currently contribute the **largest share of total annual premium**, making them a key revenue segment despite per-customer CLV being around/below the portfolio average. Retention and cross-sell in this group have high short- to mid-term impact. |
+| **Loyal Family Households** | Mature, predominantly married customers with the **longest policy tenure** and significantly above-average CLV. Strong focus on family and long-term protection. | Provide **stable, predictable revenue** and the **highest CLV** across segments. They form the backbone of long-term profitability and should be prioritised for retention and loyalty programmes. |
+
 
 ### Key Analytical Findings
-- **Revenue concentration is segment-driven:** **Discerning Independents** contribute the largest share of total annual premium (**£8.8M**) due to higher-value insurance products and higher premium efficiency per unit of coverage, despite not being the largest segment by customer count.
+- **Revenue concentration is segment-driven:** **Discerning Independents** contribute the largest share of total annual premium driven by higher-income profiles and demand for higher-value insurance products, despite not being the largest segment by customer count.
 - **Retention drives profitability:** Customers with 10+ years tenure are consistently represented among high-CLV and top-premium customers. This highlights the importance of customer retention strategies in driving revenue and lifetime value.
 - **Young customers drive volume, not value:** Younger customers aged 18–30 (*Young Urban Starters*) appear in higher volume but contribute lower total premium, likely due to lower coverage, whereas mid-life customers aged 31–50 (*Discerning Independents*) contribute disproportionately to premium.
 - **Product performance varies by segment:** **Business** products generate the highest total premiums, led by *OfficeProtect* and *MotorShield*.
