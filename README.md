@@ -20,11 +20,11 @@ The clustering analysis identifies three customer segments with clear difference
 
 ## Customer Segmentation Overview
 
-| Segment | Profile | Business Value |
-| --- | --- | --- |
-| **Young Urban Starters** | Younger, budget-conscious customers with lower income, shorter policy tenure, and the lowest average CLV. Predominantly single and early in their insurance journey. | Lower current premium and CLV, but represent an important pool of future growth if nurtured with entry-level products and gradual upsell. |
-| **Discerning Independents** | Middle-aged, high-income individuals with moderate tenure and low premium-to-coverage ratios. Often single or divorced, with strong individual protection needs. | Currently contribute the **largest share of total annual premium**, making them a key revenue segment despite relatively lower per-customer CLV due to short tenure. Retention and cross-sell in this group have high short- to mid-term impact. |
-| **Loyal Family Households** | Mature, predominantly married customers with the **longest policy tenure** and significantly above-average CLV. Strong focus on family and long-term protection. | Provide **stable, predictable revenue** and the **highest CLV** across segments. They form the backbone of long-term profitability and should be prioritised for retention and loyalty programmes. |
+| Segment | Profile | Business Value |Business Tactics|
+| --- | --- | --- | --- |
+| **Young Urban Starters** | Younger, budget-conscious customers with lower income, shorter policy tenure, and the lowest average CLV. Predominantly single and early in their insurance journey. | Lower current premium and CLV, but represent an important pool of future growth. | Entry-level pricing, affordable bundles, simplified products & digital onboarding |
+| **Discerning Independents** | Middle-aged, high-income individuals with moderate tenure and low premium-to-coverage ratios. Often single or divorced, with strong individual protection needs. | Currently contribute the **largest share of total annual premium**, making them a key revenue segment despite relatively lower per-customer CLV due to short tenure. Retention and cross-sell in this group have high short- to mid-term impact. | Upsell and cross-sell add-on covering not only business but life insurance products |
+| **Loyal Family Households** | Mature, predominantly married customers with the **longest policy tenure** and significantly above-average CLV. Strong focus on family and long-term protection. | Provide **stable, predictable revenue** and the **highest CLV** across segments. They form the backbone of long-term profitability and should be prioritised for retention and loyalty programmes. | Renewal incentives, long-term loyalty programs, family bundles and multi-policy discounts |
 
 
 ### Key Analytical Findings
