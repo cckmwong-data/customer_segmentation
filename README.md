@@ -85,7 +85,7 @@ The clustering analysis identifies three customer segments with clear difference
 - **Revenue concentration is segment-driven:** *Discerning Independents* contribute the largest share of total annual premium (**£8.8M**), despite not being the largest segment by customer count.
 - **Tenure correlates with customer value:** Customers with **10+ years** tenure show significantly higher total premium and **CLV**, reinforcing retention as a key strategy.
 - **Young customers drive volume, not value:** **18–40** age groups represent a large share of policyholders, but contribute less premium due to lower coverage and shorter tenure.
-- **Product performance varies by segment:** **Business** and **Family** products generate the highest total premiums, led by *SuperGold Life Family* and *TruePromise Family*. xxxxxxxxxxx
+- **Product performance varies by segment:** **Business** and **Family** products generate the highest total premiums, led by *SuperGold Life Family* and *OfficeProtect*.
 - **Geography matters:** **London** generates the highest total annual premium, indicating a strong concentration of high-value customers.
 
 
