@@ -1,4 +1,4 @@
-# Customer Clustering and Sales Analytics
+# Customer Clustering and Sales Analytics with K-Prototype
 
 ---
 ## Problem Statement
