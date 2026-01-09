@@ -26,6 +26,7 @@ The clustering analysis identifies three customer segments with clear difference
 | **Discerning Independents** | Middle-aged, high-income individuals with moderate tenure, often single or divorced. | Currently contribute the **largest share of total annual premium**, making them a key revenue segment despite relatively lower per-customer CLV due to short tenure. | Upsell and cross-sell add-on covering not only business but also life insurance products. |
 | **Loyal Family Households** | Mature, predominantly married customers with the **longest policy tenure**. Strong focus on family and long-term protection. | Provide **stable, predictable revenue** and the **highest CLV** across segments. They form the backbone of long-term profitability. | Renewal incentives, long-term loyalty programs, family bundles and multi-policy discounts. |
 
+![](./images/radar.png)
 
 ### Key Analytical Findings
 - **Revenue concentration is segment-driven:** **Discerning Independents** contribute the largest share of total annual premium driven by higher-income profiles and demand for higher-value insurance products, despite not being the largest segment by customer count.
