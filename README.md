@@ -13,6 +13,22 @@ This project automates an end-to-end customer segmentation workflow, integrating
 
 ---
 
+## Business Impact
+
+This solution enables insurers to operationalize customer segmentation for commercial decision-making, driving measurable value across sales, marketing, and product teams. Key impacts include:
+
+- **Targeted Marketing & Improved Conversion**: Segmentation enables marketing teams to tailor campaigns and offers to specific customer cohorts, reducing untargeted spend and improving lead conversion.
+
+- **Increased Revenue via Cross-Sell & Upsell**: Segment profiles (e.g., high-income mid-life customers) reveal opportunities to introduce higher-value products or bundle policies, increasing premium per customer and Customer Lifetime Value (CLV).
+
+- **Higher Retention of High-Value Customers**: Tenure-driven insights highlight that long-standing customers deliver higher CLV, enabling proactive retention programs for profitable cohorts.
+
+- **Product & Portfolio Strategy Optimization**: Product performance by customer segment identifies which insurance products drive premium growth and which should be prioritized for development, pricing, and sales emphasis.
+
+- **Geo-Targeted Commercial Planning**: Insights on revenue concentration by location allow sales teams to allocate resources, budgets, and agents to high-value geographies.
+
+---
+
 ## Business Analytics & Insights
 
 ### Customer Segmentation Overview
