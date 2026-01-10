@@ -17,7 +17,7 @@ This project automates an end-to-end customer segmentation workflow, integrating
 ---
 ## Highlights
 
-- Fully automated from raw data to dashboard insights
+- Fully automated from raw data to [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) insights
 - Cloud-native design using BigQuery + Power BI
 - Real-world use of mixed-type clustering with K-Prototypes
 - Business-friendly, scalable, and no manual refreshes required
@@ -71,7 +71,7 @@ The clustering analysis identifies three customer segments with clear difference
 - **Artificial Intelligence**: gemini-2.5-flash 
 - **GitHub Actions**: automation of Python scripts
 - **Google BigQuery**: SQL
-- **Power BI**: real-time dashboards
+- **Power BI**: real-time [dashboards](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 
 ---
 ## ETL Pipeline
