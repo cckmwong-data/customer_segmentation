@@ -26,7 +26,7 @@ This project automates an end-to-end customer segmentation workflow, integrating
 
 ## Business Impact
 
-This solution enables insurers to operationalize customer segmentation for commercial decision-making, driving measurable value across sales, marketing, and product teams. Key impacts include:
+This solution enables insurers to operationalize customer segmentation for commercial decision-making, driving measurable value across *sales*, *marketing*, and *product* teams. Key impacts include:
 
 - **Targeted Marketing & Improved Conversion**: Segmentation enables marketing teams to tailor campaigns and offers to specific customer cohorts, reducing untargeted spend and improving lead conversion.
 
