@@ -9,7 +9,19 @@ With rising competition and evolving customer expectations, insurers leverage da
 
 ## Project Summary
 
+> **Note:**  
+> *This public repository is for showcase purposes only. The actual execution runs in a separate private repository.*
+
 This project automates an end-to-end customer segmentation workflow, integrating raw data ingestion from **Google Sheets**, clustering analysis using **K-Prototypes** which supports mixed numeric and categorical features, data warehousing in **Google BigQuery**, and daily refreshed **Power BI dashboards**. It is designed to deliver actionable insights for marketing and sales teams through a fully automated, cloud-based, and production-ready solution.
+
+---
+## Highlights
+
+- Fully automated from raw data to dashboard insights
+- Real-world use of mixed-type clustering with K-Prototypes
+- CI/CD-ready pipeline with GitHub Actions
+- Cloud-native design using BigQuery + Power BI
+- Business-friendly, scalable, and no manual refreshes required
 
 ---
 
@@ -52,6 +64,7 @@ The clustering analysis identifies three customer segments with clear difference
 - **Geography matters:** **London** generates the highest total annual premium, indicating a strong concentration of high-value customers.
 
 <img src="./images/premium_segment.png" width="" height="350">
+
 ---
 ## Technologies Used
 
@@ -60,15 +73,6 @@ The clustering analysis identifies three customer segments with clear difference
 - **GitHub Actions**: automation of Python scripts
 - **Google BigQuery**: SQL
 - **Power BI**: real-time dashboards
-
----
-## Highlights
-
-- Fully automated from raw data to dashboard insights
-- Real-world use of mixed-type clustering with K-Prototypes
-- CI/CD-ready pipeline with GitHub Actions
-- Cloud-native design using BigQuery + Power BI
-- Business-friendly, scalable, and no manual refreshes required
 
 ---
 ## ETL Pipeline
