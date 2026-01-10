@@ -1,3 +1,6 @@
+# Disclaimer: this is only to showcase the content of YAML file and is not executable. 
+# The actual one is scheduled to be in another private Github repo.
+
 name: Run Python Script with BigQuery
 
 on:
@@ -7,6 +10,7 @@ on:
 
 jobs:
   run-python:
+    if: false  # prevents execution
     runs-on: ubuntu-latest
     env:
       RUN_GENAI: "false"
