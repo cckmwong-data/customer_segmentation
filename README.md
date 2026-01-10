@@ -18,9 +18,8 @@ This project automates an end-to-end customer segmentation workflow, integrating
 ## Highlights
 
 - Fully automated from raw data to dashboard insights
-- Real-world use of mixed-type clustering with K-Prototypes
-- CI/CD-ready pipeline with GitHub Actions
 - Cloud-native design using BigQuery + Power BI
+- Real-world use of mixed-type clustering with K-Prototypes
 - Business-friendly, scalable, and no manual refreshes required
 
 ---
