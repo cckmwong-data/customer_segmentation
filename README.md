@@ -62,7 +62,7 @@ The clustering analysis identifies three customer segments with clear difference
 - **Product performance varies by segment:** **Business** products generate the highest total premiums, led by *OfficeProtect* and *MotorShield*.
 - **Geography matters:** **London** generates the highest total annual premium, indicating a strong concentration of high-value customers.
 
-<img src="./images/premium_segment.png" width="" height="350">
+<img src="./images/premium_segment.png" width="" height="300"> <img src="./images/map.png" width="" height="300">
 
 ---
 ## Technologies Used
