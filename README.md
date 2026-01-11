@@ -18,7 +18,7 @@ This project automates an end-to-end customer segmentation workflow, integrating
 ## Highlights
 
 - Fully automated from raw data to [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) insights
-- Cloud-native design using BigQuery + Power BI
+- Cloud-native design using BigQuery and Power BI
 - Real-world use of mixed-type clustering with K-Prototypes
 - Business-friendly, scalable, and no manual refreshes required
 
