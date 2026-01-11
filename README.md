@@ -104,6 +104,32 @@ This is a project covering an automated end-to-end data pipeline which performs 
 
 ---
 
+## Use of Artificial Intelligence (AI)
+
+Artificial intelligence was incorporated to enhance productivity and interpretability within the analytics pipeline, while all statistical modeling, feature engineering, and data processing steps remained transparent and fully deterministic which were executed using classical machine learning methods. 
+
+AI primarily assisted in two key areas of the workflow:
+
+1. **SQL Query Generation for BigQuery**
+
+Google Gemini was used to accelerate the development of SQL queries executed in BigQuery. The model helped to:
+
+- draft initial query structures for data transformations and aggregation
+- convert business questions into query specifications
+
+All AI-generated queries were reviewed, validated, and tested manually before integration into the automated pipeline.
+
+2. **Automated Segment Labeling and Description**
+
+After clustering customers with K-Prototypes, Gemini was leveraged within the Python pipeline to generate human-interpretable labels and narrative descriptions for each customer segment. This enabled:
+
+- more intuitive representation of segment profiles in downstream dashboards
+- higher adaptability in light of any changes in clustering parameters, feature sets, or updated customer data
+
+This significantly improves the scalability and maintainability of the pipeline, as no manual relabeling is required when the model evolves.
+
+---
+
 ## Schedule & Maintenance
 
 | Layer           | Schedule             | Managed By         |
