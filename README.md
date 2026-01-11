@@ -49,7 +49,7 @@ The clustering analysis identifies three customer segments with clear difference
 
 <img src="./images/radar.png" width="" height="500">
 
-| Segment | Profile | Business Value |Business Tactics|
+| Segment | Profile | Business Value |Product Strategy|
 | --- | --- | --- | --- |
 | **Young Urban Starters** | Younger, budget-conscious customers with lower income and shorter policy tenure. | Lower current premium and CLV, but represent an important pool of future growth. | Entry-level pricing, affordable bundles. |
 | **Discerning Independents** | Middle-aged, high-income individuals with moderate tenure, often single or divorced. | Currently contribute the **largest share of total annual premium**, making them a key revenue segment despite relatively lower per-customer CLV due to short tenure. | Upsell and cross-sell add-on covering not only business but also life insurance products. |
