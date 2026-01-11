@@ -40,7 +40,7 @@ This solution enables insurers to operationalize customer segmentation for comme
 
 ---
 
-## Business Analytics & Insights
+## Data Insights & Interpretation
 
 ### Customer Segmentation Overview
 The clustering analysis identifies three customer segments with clear differences in demographics, value contribution, and insurance behaviour.
@@ -123,7 +123,7 @@ All AI-generated queries were reviewed, validated, and tested manually before in
 
 After clustering customers with K-Prototypes, Gemini was leveraged within the Python pipeline to generate human-interpretable labels and narrative descriptions for each customer segment. This enabled:
 
-- more intuitive representation of segment profiles in downstream dashboards
+- more intuitive representation of segment profiles
 - higher adaptability in light of any changes in clustering parameters, feature sets, or updated customer data
 
 This significantly improves the scalability and maintainability of the pipeline, as no manual relabeling is required when the model evolves.
