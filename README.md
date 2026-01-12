@@ -6,15 +6,27 @@ Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions
 
 ## Highlights
 
-✔ **Fully automated** from raw data to Power BI [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) 
+- **Fully automated** from raw data to Power BI [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) 
+- **Cloud-native architecture** using BigQuery + GitHub Actions + Power BI
+- Segmentation using **K-Prototypes** for mixed numerical & categorical data
+- Runs fully on free-tier cloud services (**zero cost** to operate)
+- Designed for marketing & sales decision-making (targeting, upsell, retention)
+- Production-ready, scalable, and maintainable for enterprise deployment
 
-✔ **Cloud-native orchestration** using BigQuery + GitHub Actions + Power BI
+---
 
-✔ Segmentation using **K-Prototypes** for mixed numerical & categorical data
+## Skills Demonstrated
+✔ Data Engineering (ETL, orchestration, scheduling)
 
-✔ Designed for marketing and sales teams to improve targeting and upsell strategy
+✔ Machine Learning (clustering with mixed data types)
 
-✔ Production-ready, scalable, and maintainable for enterprise deployment
+✔ Business Analytics & Storytelling (segment insights & business strategies)
+
+✔ Cloud Analytics (BigQuery + Power BI)
+
+✔ Automation & Machine Learning Operations (GitHub Actions, scheduled refresh)
+
+✔ AI-Augmented Development (segment labeling + SQL generation)
 
 ---
 
@@ -27,7 +39,7 @@ With rising competition and evolving customer expectations, insurers leverage da
 > **Note:**  
 > *This public repository is intended for demonstration purposes only. The automated execution of the Python workflows runs in a separate private repository of Github.*
 
-From the technical perspective, this project automates an end-to-end customer segmentation workflow, integrating raw data ingestion from **Google Sheets**, clustering analysis using **K-Prototypes** for mixed numeric and categorical features, data warehousing in **Google BigQuery**, and daily refreshed **Power BI dashboards**. It is designed to deliver actionable insights for marketing and sales teams through a fully automated, cloud-based, and production-ready solution.
+Technically, this project automates an end-to-end customer segmentation workflow, integrating raw data ingestion from **Google Sheets**, clustering analysis using **K-Prototypes** for mixed numeric and categorical features, data warehousing in **Google BigQuery**, and daily refreshed **Power BI dashboards**. It is designed to deliver actionable insights for marketing and sales teams through a fully automated, cloud-based, and production-ready solution.
 
 ---
 
