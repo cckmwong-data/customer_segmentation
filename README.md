@@ -22,6 +22,8 @@ Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions
 
 With rising competition and evolving customer expectations, insurers leverage data-driven intelligence to understand customer behavior and tailor their offerings accordingly. Customer segmentation provides a structured way to group individuals with shared characteristics, enabling more efficient targeting and marketing strategies. 
 
+<img src="./images/dashboard.png" width="" height="500">
+
 > **Note:**  
 > *This public repository is intended for demonstration purposes only. The automated execution of the Python workflows runs in a separate private repository of Github.*
 
