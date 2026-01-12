@@ -113,7 +113,7 @@ This is a project covering an automated end-to-end data pipeline which performs 
 
 ![Alt text](./images/bq.jpg)
 
-4. **Business Intelligence**: A [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) in Microsoft Power BI shows an analysis of customer and sales data the company. Data is scheduled for an automatic update on a daily basis at 11PM UK time.
+4. **Business Intelligence**: A [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) in Microsoft Power BI shows an analysis of customer and sales data for the company. Data is scheduled for an automatic update on a daily basis at 11PM UK time.
 
 ---
 
