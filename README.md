@@ -6,11 +6,11 @@ Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions
 
 ## Highlights
 
-✔ Fully automated from raw data to Power BI [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) 
+✔ **Fully automated** from raw data to Power BI [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) 
 
-✔ Cloud-native orchestration using BigQuery + GitHub Actions + Power BI
+✔ **Cloud-native orchestration** using BigQuery + GitHub Actions + Power BI
 
-✔ Segmentation using K-Prototypes for mixed numerical & categorical data
+✔ Segmentation using **K-Prototypes** for mixed numerical & categorical data
 
 ✔ Designed for marketing and sales teams to improve targeting and upsell strategy
 
