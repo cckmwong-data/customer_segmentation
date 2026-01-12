@@ -52,8 +52,6 @@ This solution enables insurers to operationalize customer segmentation for comme
 ### Customer Segmentation Overview
 The clustering analysis identifies three customer segments with clear differences in demographics, value contribution, and insurance behaviour.
 
-## Customer Segmentation Overview
-
 <img src="./images/radar.png" width="" height="500">
 
 | Segment | Profile | Business Value |Product Strategy|
@@ -71,6 +69,14 @@ The clustering analysis identifies three customer segments with clear difference
 
 <img src="./images/premium_segment.png" width="" height="250"> <img src="./images/map.png" width="" height="250">
 
+---
+## Results Summary
+
+- 3 distinct customer clusters identified
+- Discerning Independents generate the highest total premium (53.2%)
+- London contributes the highest geographic premium share (21.3%)
+- ETL + dashboard refresh automated with zero manual intervention
+  
 ---
 ## Technologies Used
 
