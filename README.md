@@ -1,30 +1,35 @@
-# Customer Clustering and Sales Analytics with K-Prototype
+# Customer Segmentation & Sales Analytics (End-to-End Automated Pipeline)
 
----
-## Problem Statement
-
-With rising competition and evolving customer expectations, insurers leverage data-driven intelligence to understand customer behavior and tailor their offerings accordingly. Customer segmentation provides a structured way to group individuals with shared characteristics, enabling more efficient targeting and marketing strategies.
+Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions & Power BI for real-time insurance customer insights.
 
 ---
 
-## Project Summary
+## Highlights
+
+✔ Fully automated from raw data to Power BI [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) 
+
+✔ Cloud-native orchestration using BigQuery + GitHub Actions + Power BI
+
+✔ Segmentation using K-Prototypes for mixed numerical & categorical data
+
+✔ Designed for marketing and sales teams to improve targeting and upsell strategy
+
+✔ Production-ready, scalable, and maintainable for enterprise deployment
+
+---
+
+## Overview
+
+With rising competition and evolving customer expectations, insurers leverage data-driven intelligence to understand customer behavior and tailor their offerings accordingly. Customer segmentation provides a structured way to group individuals with shared characteristics, enabling more efficient targeting and marketing strategies. 
 
 > **Note:**  
 > *This public repository is intended for demonstration purposes only. The automated execution of the Python workflows runs in a separate private repository of Github.*
 
-This project automates an end-to-end customer segmentation workflow, integrating raw data ingestion from **Google Sheets**, clustering analysis using **K-Prototypes** for mixed numeric and categorical features, data warehousing in **Google BigQuery**, and daily refreshed **Power BI dashboards**. It is designed to deliver actionable insights for marketing and sales teams through a fully automated, cloud-based, and production-ready solution.
-
----
-## Highlights
-
-- Fully automated from raw data to [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) insights
-- Cloud-native design using BigQuery and Power BI
-- Real-world use of mixed-type clustering with K-Prototypes
-- Business-friendly, scalable, and no manual refreshes required
+From the technical perspective, this project automates an end-to-end customer segmentation workflow, integrating raw data ingestion from **Google Sheets**, clustering analysis using **K-Prototypes** for mixed numeric and categorical features, data warehousing in **Google BigQuery**, and daily refreshed **Power BI dashboards**. It is designed to deliver actionable insights for marketing and sales teams through a fully automated, cloud-based, and production-ready solution.
 
 ---
 
-## Business Impacts
+## Key Business Impacts
 
 This solution enables insurers to operationalize customer segmentation for commercial decision-making, driving measurable value across *sales*, *marketing*, and *product* teams. Key impacts include:
 
