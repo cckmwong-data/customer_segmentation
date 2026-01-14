@@ -4,6 +4,10 @@ Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions
 
 ---
 
+<img src="./images/dashboard.png" width="" height="500">
+
+---
+
 ## Highlights
 
 - **Fully automated** from raw data to Power BI [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) 
@@ -33,8 +37,6 @@ Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions
 ## Overview
 
 With rising competition and evolving customer expectations, insurers leverage data-driven intelligence to understand customer behavior and tailor their offerings accordingly. Customer segmentation provides a structured way to group individuals with shared characteristics, enabling more efficient targeting and marketing strategies. 
-
-<img src="./images/dashboard.png" width="" height="500">
 
 > **Note:**  
 > *This public repository is intended for demonstration purposes only. The automated execution of the Python workflows runs in a separate private repository of Github.*
