@@ -2,7 +2,6 @@
 
 Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions & Power BI for real-time insurance customer insights.
 
----
 
 <img src="./images/dashboard.png" width="" height="500">
 
