@@ -1,4 +1,4 @@
-# Customer Segmentation Pipeline
+# Customer Segmentation & Sales Automated Pipeline
 
 Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions & Power BI for real-time insurance customer insights.
 
