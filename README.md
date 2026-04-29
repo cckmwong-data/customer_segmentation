@@ -73,7 +73,7 @@ The clustering analysis identifies three customer segments with clear difference
 | **Loyal Family Households** | Mature, predominantly married customers with the **longest policy tenure**. Strong focus on family and long-term protection. | Provide **stable, predictable revenue** and the **highest CLV** across segments. They form the backbone of long-term profitability. | Renewal incentives, long-term loyalty programs, family bundles and multi-policy discounts. |
 
 ### Key Analytical Findings
-- **Revenue concentration is segment-driven:** **Discerning Independents** contribute the largest share of total annual premium driven by higher-income profiles and demand for higher-value insurance products, despite not being the largest segment by customer count.
+- **Revenue concentration is segment-driven:** **Discerning Independents** contribute the largest share of total annual premium driven by higher-income profiles and demand for higher-value insurance products.
 - **Retention drives profitability:** Customers with 10+ years tenure are consistently represented among high-CLV and top-premium customers. This highlights the importance of customer retention strategies in driving revenue and lifetime value.
 - **Young customers drive volume, not value:** Younger customers aged 18–30 (*Young Urban Starters*) appear in higher volume but contribute lower total premium due to lower coverage.
 - **Product performance varies by segment:** **Business** products generate the highest total premiums, led by *OfficeProtect* and *MotorShield*.
