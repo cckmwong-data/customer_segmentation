@@ -108,6 +108,7 @@ This is a project covering an automated end-to-end data pipeline which performs 
 ![Alt text](./images/ETL_pipeline.png)
 
 **ETL (Extract, Transform, Load)**
+
 **Extract**: 
 - Collecting raw data from Google Sheets: [customers.csv](https://docs.google.com/spreadsheets/d/1bzB4VDQEQz0BIbyT2BCIvcE2rPSAlOcmeQuvMtuIFcI/export?format=csv), [sales.csv](https://docs.google.com/spreadsheets/d/1xrPtoy8R965CPSCS59_hcLP1cwzNcp7DJ2MOegZrsVA/export?format=csv), [products.csv](https://docs.google.com/spreadsheets/d/1HpCKgERS0F9qjHh3y0_GZ988JjX4vtKBX5rIksCgB5I/gviz/tq?tqx=out:csv&gid=0)
   
