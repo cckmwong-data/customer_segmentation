@@ -64,7 +64,7 @@ This solution enables insurers to operationalize customer segmentation for comme
 ### Customer Segmentation Overview
 The clustering analysis identifies three customer segments with clear differences in demographics, value contribution, and insurance behaviour.
 
-<img src="./images/radar.png" width="" height="500">
+<img src="./images/radar.png" width="" height="300">
 
 | Segment | Profile | Business Value |Product Strategy|
 | --- | --- | --- | --- |
