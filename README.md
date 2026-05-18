@@ -9,7 +9,7 @@ Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions
 
 ## Highlights
 
-- **Fully automated** from raw data to Power BI [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) 
+- **Fully automated** from raw data to Power BI [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjIyM2I2ZWYtMWNlMC00ZGVmLTkwMzQtMmVkZjcwNWU4MmQwIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) 
 - **Cloud-native architecture** using BigQuery + GitHub Actions + Power BI
 - Segmentation using **K-Prototypes** for mixed numerical & categorical data
 - Runs fully on free-tier cloud services (**zero cost** to operate)
@@ -96,13 +96,13 @@ The clustering analysis identifies three customer segments with clear difference
 - **Artificial Intelligence**: gemini-2.5-flash 
 - **GitHub Actions**: automation of Python scripts
 - **Google BigQuery**: SQL
-- **Power BI**: real-time [dashboards](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
+- **Power BI**: real-time [dashboards](https://app.powerbi.com/view?r=eyJrIjoiZjIyM2I2ZWYtMWNlMC00ZGVmLTkwMzQtMmVkZjcwNWU4MmQwIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 
 ---
 
 ## Development Pipeline
 
-This is a project covering an automated end-to-end data pipeline which performs clustering, stores the output in a warehouse, and updates a [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D).
+This is a project covering an automated end-to-end data pipeline which performs clustering, stores the output in a warehouse, and updates a [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjIyM2I2ZWYtMWNlMC00ZGVmLTkwMzQtMmVkZjcwNWU4MmQwIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D).
 
 ### An end-to-end automated data flow from ingestion to BI dashboard.
 ![Alt text](./images/ETL_pipeline.png)
@@ -124,7 +124,7 @@ This is a project covering an automated end-to-end data pipeline which performs 
 
 ![Alt text](./images/bq.jpg)
 
-**BI Dashboard**: A [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdiZmExN2YtMGY0Yy00Mjc0LWI5MTgtOWJiYzM2ZDA4ZDFmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) in *Microsoft Power BI* shows an analysis of customer and sales data for the company. Data is scheduled for an automatic update on a daily basis at 11PM UK time.
+**BI Dashboard**: A [live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjIyM2I2ZWYtMWNlMC00ZGVmLTkwMzQtMmVkZjcwNWU4MmQwIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D) in *Microsoft Power BI* shows an analysis of customer and sales data for the company. Data is scheduled for an automatic update on a daily basis at 11PM UK time.
 
 
 ### Schedule & Maintenance
