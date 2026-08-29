@@ -1,4 +1,4 @@
-# Customer Segmentation & Sales Analysis
+# Customer Segmentation & Sales Intelligence
 
 Fully automated segmentation system using K-Prototypes, BigQuery, GitHub Actions & Power BI for real-time insurance customer insights.
 
